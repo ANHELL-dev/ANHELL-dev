@@ -193,10 +193,28 @@
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANHELL-dev&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="ANHELL-dev" />
+
+  <!-- Неоновый счетчик -->
+  <img src="https://komarev.com/ghpvc/?username=ANHELL-dev&label=👀+VISITORS&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" />
   
-  ### 💻 Превращаю идеи в красивые и функциональные приложения
+  <br><br>
   
-  **"Хороший код как хорошая шутка - не нуждается в объяснениях"** 
+  <!-- Неоновая подпись -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+CODING+IS+MY+PASSION;💻+CREATING+DIGITAL+MAGIC;🎯+BUILDING+THE+FUTURE;⚡+INNOVATION+NEVER+STOPS&font=Orbitron&center=true&width=600&height=70&color=00D4AA&vCenter=true&size=24&duration=4000&pause=500">
+  
+  <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=footer&text=Спасибо%20за%20визит!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  
+
 </div>
